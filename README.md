@@ -1,2 +1,2 @@
 # ece-teker-week1
-Patika Week1 Homework
+Ece Teker Week 1 Homework
